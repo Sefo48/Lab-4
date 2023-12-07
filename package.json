@@ -40,6 +40,13 @@
   },
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
-    "eslint": "^8.50.0"
+    "@semantic-release/commit-analyzer": "^11.1.0",
+    "@semantic-release/github": "^9.2.4",
+    "@semantic-release/release-notes-generator": "^12.1.0",
+    "eslint": "^8.50.0",
+    "semantic-release": "^22.0.10"
+  },
+  "repository": {
+    "url": "https://github.com/Sefo48/Lab-4.git"
   }
 }
